@@ -22,12 +22,11 @@ IMPORTANT: Pull requests are a crucial part in the development process. As a com
 
 **Logistical**
 <!-- Please fill these out so that we understand the impact of this PR better -->
-- [ ] This pull request is part of a series of changes required to fulfill the requirements of the related Issue.
 - [ ] Tests have been added and succeed, tests were either part of the requirements or relates to high priority business logic.
-- [ ] Documentation (if any) have a related PR: (link here)
-- [ ] Related other PR's (if any), please list them here and specify their dependency:
+- [ ] Documentation (if any) have a related PR or context, link: 
+- [ ] More PR's relate to this task, these are (only required on primary/main PR):
 <!--
-  - [ ] (link to other PR)
+  - [ ] https://github.com/WH-CloudMazing/...
 -->
 
 ### Reviewer section
