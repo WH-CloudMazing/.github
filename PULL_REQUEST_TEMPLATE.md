@@ -29,6 +29,13 @@ IMPORTANT: Pull requests are a crucial part in the development process. As a com
   - [ ] https://github.com/WH-CloudMazing/...
 -->
 
+---
+
+<!--
+IMPORTANT: the following section is for the reviewer, 
+    the list contains subtle reminders of steps to take doing a PR review.
+-->
+
 ### Reviewer section
 
 **Confirmed**
