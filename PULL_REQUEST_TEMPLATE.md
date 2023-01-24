@@ -23,6 +23,7 @@ IMPORTANT: Pull requests are a crucial part in the development process. As a com
 **Logistical**
 <!-- Please fill these out so that we understand the impact of this PR better -->
 - [ ] Tests have been added and succeed, tests were either part of the requirements or relates to high priority business logic.
+- [ ] Changes that affect the UI work on both desktop and mobile devices.
 - [ ] Documentation (if any) have a related PR or context, link: 
 - [ ] More PR's relate to this task, these are (only required on primary/main PR):
 <!--
