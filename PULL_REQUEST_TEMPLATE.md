@@ -2,8 +2,6 @@
 
 <!-- link to either the youtrack ticket or github issue if any -->
 
-**YouTrack Issue: https://cloudmazing.myjetbrains.com/youtrack/issue/#**
-
 **Fixes #0000**
 
 **Changes**
